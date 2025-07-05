@@ -3,13 +3,13 @@ layout: default
 title: Home
 ---
 
-# 👋 Welcome
+# About Me
 
 I'm **Amogh Vig**, a MS Data Science Graduate from Vanderbilt Univeristy with a background in business intelligence, machine learning, and insurance analytics. This site features select open projects and reports.
 
 ---
 
-## 🧠 Featured Projects
+## Featured Projects
 
 ### 📊 Wellness Adherence & Claims Forecasting
 Forecasted employer healthcare costs using ARIMA and clustering models based on employee wellness benefit usage.
