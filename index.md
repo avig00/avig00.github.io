@@ -11,7 +11,7 @@ I'm **Amogh Vig**, a data scientist with a background in insurance analytics, he
 
 ## 🧠 Featured Projects
 
-### [📊 Wellness Adherence & Claims Forecasting](projects/healthcare-forecasting/)
+### [📊 Wellness Adherence & Claims Forecasting]
 Forecasted employer healthcare costs using ARIMA and clustering models based on employee wellness benefit usage.
 
 📄 [Read the Report (PDF)](projects/healthcare-forecasting/report.pdf)  
