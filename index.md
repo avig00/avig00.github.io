@@ -15,7 +15,7 @@ I'm **Amogh Vig**, a data scientist with a background in insurance analytics, he
 Forecasted employer healthcare costs using ARIMA and clustering models based on employee wellness benefit usage.
 
 📄 [Read the Report (PDF)](projects/healthcare-forecasting/report.pdf)  
-💻 [View Code](projects/healthcare-forecasting/code.ipynb)
+💻 [View Code on GitHub](https://github.com/yourusername/yourusername.github.io/blob/main/projects/healthcare-forecasting/code.ipynb)
 
 ---
 
