@@ -11,8 +11,8 @@ I'm **Amogh Vig**, a MS Data Science graduate from Vanderbilt University with a 
 
 ## Education
 
-MS Data Science, Vanderbilt University
-BS Chemical Engineering with Economics minor, UC San Diego
+* MS Data Science, Vanderbilt University
+* BS Chemical Engineering with Economics minor, UC San Diego
 
 ---
 
