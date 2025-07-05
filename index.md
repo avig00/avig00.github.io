@@ -37,7 +37,14 @@ Forecasted employer healthcare costs using ARIMA and clustering models based on 
 - Created interactive, data-driven dashboards in Tableau, empowering teams and senior leadership with actionable insights
 - Automated data extraction and integration from third-party platforms via APIs and Python
 
-### Data Analyst Intern - Brown & Brown Insurance
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h3 style="margin: 0;">Data Analyst Intern</h3>
+  <img src="/assets/logos/Brown&Brown.png" alt="Brown&Brown Logo" height="40">
+</div>
+
+- Applied time series models with Python to predict future costs from medical and Rx benefit claims using ICD-10 data for 8 prominent clients
+- Applied K-Means clustering to group clients based on employee preventive wellness claim usage and claims costs
+- Created detailed reports for clients and brokers with Kofax and Excel to facilitate matching clients to optimal insurance plans
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <h3 style="margin: 0;">Student Data Scientist</h3>
