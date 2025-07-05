@@ -27,34 +27,44 @@ Forecasted employer healthcare costs using ARIMA and clustering models based on 
 
 ## Experience
 
+<!-- Velocity Risk -->
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <h3 style="margin: 0;">Business Intelligence Analyst</h3>
   <img src="/assets/logos/VelocityRisk.png" alt="Velocity Risk Logo" height="40">
 </div>
 
-- Developed regression and classification models with Python to enable prediction and categorization of risk levels
-- Engineered SQL queries for Snowflake and SQL Server, optimizing data retrieval processes for critical business operations
-- Created interactive, data-driven dashboards in Tableau, empowering teams and senior leadership with actionable insights
-- Automated data extraction and integration from third-party platforms via APIs and Python
+<ul style="padding-left: 0; list-style-position: inside;">
+  <li>Developed regression and classification models with Python to enable prediction and categorization of risk levels</li>
+  <li>Engineered SQL queries for Snowflake and SQL Server, optimizing data retrieval processes for critical business operations</li>
+  <li>Created interactive, data-driven dashboards in Tableau, empowering teams and senior leadership with actionable insights</li>
+  <li>Automated data extraction and integration from third-party platforms via APIs and Python</li>
+</ul>
 
+<!-- Brown & Brown -->
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <h3 style="margin: 0;">Data Analyst Intern</h3>
-  <img src="/assets/logos/Brown&Brown.png" alt="Brown&Brown Logo" height="40">
+  <img src="/assets/logos/Brown&Brown.png" alt="Brown & Brown Logo" height="40">
 </div>
 
-- Applied time series models with Python to predict future costs from medical and Rx benefit claims using ICD-10 data for 8 prominent clients
-- Applied K-Means clustering to group clients based on employee preventive wellness claim usage and claims costs
-- Created detailed reports for clients and brokers with Kofax and Excel to facilitate matching clients to optimal insurance plans
+<ul style="padding-left: 0; list-style-position: inside;">
+  <li>Applied time series models with Python to predict future costs from medical and Rx benefit claims using ICD-10 data for 8 prominent clients</li>
+  <li>Applied K-Means clustering to group clients based on employee preventive wellness claim usage and claims costs</li>
+  <li>Created detailed reports for clients and brokers with Kofax and Excel to facilitate matching clients to optimal insurance plans</li>
+</ul>
 
+<!-- Asurion -->
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <h3 style="margin: 0;">Student Data Scientist</h3>
   <img src="/assets/logos/Asurion.jpg" alt="Asurion Logo" height="40">
 </div>
 
-- Extracted Apple stock price data from Yahoo Finance via an API to use as a feature for predictive modeling  
-- Implemented and evaluated SARIMA, Random Forest, XGBoost, Bi-LSTM, and GRU models for forecasting future iPhone claims for 8 different iPhone models  
-- SARIMA implementation outperformed baseline models by 19% in Weighted Mean Absolute Percentage Error (WMAPE)  
-- Presented insights and results to 2 senior data scientists at Asurion
+<ul style="padding-left: 0; list-style-position: inside;">
+  <li>Extracted Apple stock price data from Yahoo Finance via an API to use as a feature for predictive modeling</li>
+  <li>Implemented and evaluated SARIMA, Random Forest, XGBoost, Bi-LSTM, and GRU models for forecasting future iPhone claims for 8 different iPhone models</li>
+  <li>SARIMA implementation outperformed baseline models by 19% in Weighted Mean Absolute Percentage Error (WMAPE)</li>
+  <li>Presented insights and results to 2 senior data scientists at Asurion</li>
+</ul>
+
 
 
 
