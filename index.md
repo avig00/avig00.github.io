@@ -27,16 +27,20 @@ Forecasted employer healthcare costs using ARIMA and clustering models based on 
 
 ## Experience
 
-<p align="left">
-  <img src="/assets/logos/VelocityRisk.png" alt="Asurion Logo" height="40"/>
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h3 style="margin: 0;">Business Intelligence Analyst</h3>
+  <img src="/assets/logos/VelocityRisk.png" alt="Velocity Risk Logo" height="40">
+</div>
 
-### Business Intelligence Analyst 
+- Developed regression and classification models with Python to enable prediction and categorization of risk levels
+- Engineered SQL queries for Snowflake and SQL Server, optimizing data retrieval processes for critical business operations
+- Created interactive, data-driven dashboards in Tableau, empowering teams and senior leadership with actionable insights
+- Automated data extraction and integration from third-party platforms via APIs and Python
 
 ### Data Analyst Intern - Brown & Brown Insurance
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <h3 style="margin: 0;">Student Data Scientist – Asurion</h3>
+  <h3 style="margin: 0;">Student Data Scientist</h3>
   <img src="/assets/logos/Asurion.jpg" alt="Asurion Logo" height="40">
 </div>
 
