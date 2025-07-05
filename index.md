@@ -5,7 +5,7 @@ title: Home
 
 # 👋 Welcome
 
-I'm **Amogh Vig**, a data scientist with a background in insurance analytics, healthcare forecasting, and risk modeling. This site features select open projects and reports.
+I'm **Amogh Vig**, a MS Data Science Graduate from Vanderbilt Univeristy with a background in business intelligence, machine learning, and insurance analytics. This site features select open projects and reports.
 
 ---
 
