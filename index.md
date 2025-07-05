@@ -35,16 +35,16 @@ Forecasted employer healthcare costs using ARIMA and clustering models based on 
 
 ### Data Analyst Intern - Brown & Brown Insurance
 
-<p align="left">
-  <img src="/assets/logos/Asurion.jpg" alt="Asurion Logo" height="40"/>
-</p>
-
-### Student Data Scientist
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h3 style="margin: 0;">Student Data Scientist – Asurion</h3>
+  <img src="/assets/logos/Asurion.jpg" alt="Asurion Logo" height="40">
+</div>
 
 - Extracted Apple stock price data from Yahoo Finance via an API to use as a feature for predictive modeling  
 - Implemented and evaluated SARIMA, Random Forest, XGBoost, Bi-LSTM, and GRU models for forecasting future iPhone claims for 8 different iPhone models  
 - SARIMA implementation outperformed baseline models by 19% in Weighted Mean Absolute Percentage Error (WMAPE)  
 - Presented insights and results to 2 senior data scientists at Asurion
+
 
 
 
