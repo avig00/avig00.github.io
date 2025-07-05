@@ -15,12 +15,12 @@ I'm **Amogh Vig**, a MS Data Science graduate from Vanderbilt University with a 
 
 ### Data Analyst Intern - Brown & Brown Insurance
 
-### Student Data Scientist - Asurion
+### <img src="/assets/logos/asurion.png" alt="Asurion Logo" height="20"/> Student Data Scientist - Asurion
 
-* Extracted Apple stock price data from Yahoo Finance via an API to use as a feature for predictive modeling
-* Implemented and evaluated SARIMA, Random Forest, XGBoost, Bi-LSTM, and GRU models for forecasting future iPhone claims for 8 different iPhone models
-* SARIMA implementation outperformed baseline models by 19% in Weighted Mean Absolute Percentage Error (WMAPE)
-* Presented insights and results to 2 senior data scientists at Asurion
+- Extracted Apple stock price data from Yahoo Finance via an API to use as a feature for predictive modeling  
+- Implemented and evaluated SARIMA, Random Forest, XGBoost, Bi-LSTM, and GRU models for forecasting future iPhone claims for 8 different iPhone models  
+- SARIMA implementation outperformed baseline models by 19% in Weighted Mean Absolute Percentage Error (WMAPE)
+
 
 ---
 
