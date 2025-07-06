@@ -5,11 +5,11 @@ title: Home
 
 ## About Me
 
-I'm **Amogh Vig**, a MS Data Science graduate from Vanderbilt University with a background in business intelligence, machine learning, and insurance analytics. This site features my relevant experience and select open projects in this space. 
+I'm a MS Data Science graduate from Vanderbilt University with a background in business intelligence, machine learning, and insurance analytics. This site features my relevant experience and select open projects in this space. 
 
 ---
 
-## My Projects
+## Projects
 
 ### 📊 Wellness Adherence & Claims Forecasting
 Forecasted employer healthcare costs using ARIMA and clustering models based on employee wellness benefit usage.
@@ -64,6 +64,18 @@ Forecasted employer healthcare costs using ARIMA and clustering models based on 
   <li>SARIMA implementation outperformed baseline models by 19% in Weighted Mean Absolute Percentage Error (WMAPE)</li>
   <li>Presented insights and results to 2 senior data scientists at Asurion</li>
 </ul>
+
+---
+
+<h3>Top Skills</h3>
+
+<div style="display: flex; gap: 24px; align-items: center; flex-wrap: wrap;">
+
+  <img src="/assets/logos/sql.png" alt="SQL" height="40" title="SQL" />
+  <img src="/assets/logos/python.png" alt="Python" height="40" title="Python" />
+  <img src="/assets/logos/tableau.png" alt="Tableau" height="40" title="Tableau" />
+
+</div>
 
 
 
