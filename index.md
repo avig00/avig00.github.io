@@ -69,16 +69,20 @@ Forecasted employer healthcare costs using ARIMA and clustering models based on 
 
 ## Skills
 
-<div style="display: flex; gap: 24px; align-items: center; flex-wrap: wrap;">
-  <img src="/assets/logos/sql.png" alt="SQL" title="SQL"
-       style="height: 40px; max-width: 60px; object-fit: contain;" />
-  <img src="/assets/logos/python.png" alt="Python" title="Python"
-       style="height: 40px; max-width: 60px; object-fit: contain;" />
-  <img src="/assets/logos/tableau.png" alt="Tableau" title="Tableau"
-       style="height: 40px; max-width: 60px; object-fit: contain;" />
-
+<div style="display: flex; gap: 24px; align-items: center; justify-content: center; flex-wrap: wrap;">
+  <div style="width: 60px; height: 40px; display: flex; align-items: center; justify-content: center;">
+    <img src="/assets/logos/sql.png" alt="SQL" title="SQL" style="max-width: 100%; max-height: 100%;" />
+  </div>
+  <div style="width: 60px; height: 40px; display: flex; align-items: center; justify-content: center;">
+    <img src="/assets/logos/python.png" alt="Python" title="Python" style="max-width: 100%; max-height: 100%;" />
+  </div>
+  <div style="width: 60px; height: 40px; display: flex; align-items: center; justify-content: center;">
+    <img src="/assets/logos/tableau.png" alt="Tableau" title="Tableau" style="max-width: 100%; max-height: 100%;" />
+  </div>
+  <div style="width: 60px; height: 40px; display: flex; align-items: center; justify-content: center;">
+    <img src="/assets/logos/azure.png" alt="Azure" title="Azure" style="max-width: 100%; max-height: 100%;" />
+  </div>
 </div>
-
 
 
 
