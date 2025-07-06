@@ -5,7 +5,7 @@ title: Home
 
 ## About Me
 
-I'm a MS Data Science graduate from Vanderbilt University with a background in business intelligence, machine learning, and insurance analytics. This site features my relevant experience and select open projects in this space. 
+I'm a MS Data Science graduate from Vanderbilt University with a background in business intelligence, machine learning, and insurance analytics. This site features my top technical skills, relevant work experience, and select open projects in this space. 
 
 ---
 
@@ -67,7 +67,7 @@ Forecasted employer healthcare costs using ARIMA and clustering models based on 
 
 ---
 
-## Top Skills
+## Skills
 
 <div style="display: flex; gap: 24px; align-items: center; flex-wrap: wrap;">
   <img src="/assets/logos/sql.png" alt="SQL" title="SQL"
