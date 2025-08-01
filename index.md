@@ -52,6 +52,19 @@ Forecasted employer healthcare costs using ARIMA and clustering models based on 
   <li>Created detailed reports for clients and brokers with Kofax and Excel to facilitate matching clients to optimal insurance plans</li>
 </ul>
 
+<!-- Plug Power -->
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h3 style="margin: 0;">Data Scientist Intern, Office of the CTO</h3>
+  <img src="/assets/logos/plug_power.jpeg" alt="Plug Power Logo" height="40">
+</div>
+
+<ul style="padding-left: 0; list-style-position: inside;">
+  <li>Pre-processed and engineered features for electrolyzer system data</li>
+  <li>Implemented and evaluated SARIMA, Random Forest, XGBoost, Bi-LSTM, and GRU models for forecasting future iPhone claims for 8 different iPhone models</li>
+  <li>Built a Power BI application that scientists and engineers can use to monitor the health of electrolyzers</li>
+  <li> Invited to give a poster presentation at the company's inaugural Tech Con event</li>
+</ul>
+
 <!-- Asurion -->
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <h3 style="margin: 0;">Student Data Scientist</h3>
