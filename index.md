@@ -52,6 +52,19 @@ Forecasted employer healthcare costs using ARIMA and clustering models based on 
   <li>Created detailed reports for clients and brokers with Kofax and Excel to facilitate matching clients to optimal insurance plans</li>
 </ul>
 
+<!-- AllianceBernstein -->
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h3 style="margin: 0;">Student Data Scientist</h3>
+  <img src="/assets/logos/AB_logo.jpeg" alt="AB Logo" height="40">
+</div>
+
+<ul style="padding-left: 0; list-style-position: inside;">
+  <li>Streamlined the labelling of news article sentiments for companies listed on the S&P 500 using GPT-4 and human-in-the-loop (HITL) workflow </li>
+  <li>Fine-tuned BERT, FinBERT, and RoBERTa transformer models to perform sentiment analysis on news articles for companies listed on the S&P 500</li>
+  <li>Constructed and back-tested 3 unique investment portfolios using sentiment analysis results to identify optimal strategies</li>
+  <li>Used AlphaLens to compare the performance of the transformer model portfolios, with FinBERT-based NLV outperforming the market in multiple windows</li>
+</ul>
+
 <!-- Plug Power -->
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <h3 style="margin: 0;">Data Scientist Intern, Office of the CTO</h3>
