@@ -11,6 +11,12 @@ I'm a MS Data Science graduate from Vanderbilt University with a background in b
 
 ## Projects
 
+---
+
+*More projects coming soon...*
+
+---
+
 ### 📊 Wellness Adherence & Claims Forecasting
 Forecasted employer healthcare costs using ARIMA and clustering models based on employee wellness benefit usage.
 
@@ -18,12 +24,6 @@ Forecasted employer healthcare costs using ARIMA and clustering models based on 
 📄 [Read the Report (PDF)](projects/healthcare-forecasting/report.pdf)  
 📘 [View Code with nbviewer](https://nbviewer.org/github/avig00/avig00.github.io/blob/main/projects/healthcare-forecasting/code.ipynb)
 
-
----
-
-*More projects coming soon...*
-
----
 
 ## Experience
 
