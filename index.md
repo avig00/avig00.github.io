@@ -93,7 +93,7 @@ Forecasted employer healthcare costs using ARIMA and clustering models based on 
 
 ---
 
-## Skills
+## Top Skills
 
 <div style="display: flex; gap: 24px; align-items: center; justify-content: flex-start; flex-wrap: wrap;">
   <div style="width: 60px; height: 40px; display: flex; align-items: center; justify-content: center;">
