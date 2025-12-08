@@ -93,6 +93,10 @@ Forecasted employer healthcare costs using ARIMA and clustering models based on 
 
 ---
 
+## Cloud Certifications
+
+---
+
 ## Top Skills
 
 <div style="display: flex; gap: 24px; align-items: center; justify-content: flex-start; flex-wrap: wrap;">
