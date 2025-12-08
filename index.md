@@ -98,6 +98,7 @@ Forecasted employer healthcare costs using ARIMA and clustering models based on 
   <div style="width: 60px; height: 40px; display: flex; align-items: center; justify-content: center;">
     <img src="/assets/logos/DEA.png" alt="DEA" title="DEA" style="max-width: 100%; max-height: 100%;" />
   </div>
+</div>
 
 ---
 
