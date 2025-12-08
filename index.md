@@ -95,10 +95,10 @@ Forecasted employer healthcare costs using ARIMA and clustering models based on 
 
 ## Cloud Certifications
 <div style="display: flex; gap: 24px; align-items: center; justify-content: flex-start; flex-wrap: wrap;">
-  <div style="width: 100px; height: 100px; display: flex; align-items: center; justify-content: center;">
+  <div style="width: 150px; height: 150px; display: flex; align-items: center; justify-content: center;">
     <img src="/assets/DEA.png" alt="DEA" title="DEA" style="max-width: 100%; max-height: 100%;" />
   </div>
-  <div style="width: 100px; height: 100px; display: flex; align-items: center; justify-content: center;">
+  <div style="width: 150px; height: 150px; display: flex; align-items: center; justify-content: center;">
     <img src="/assets/MLA.png" alt="DEA" title="DEA" style="max-width: 100%; max-height: 100%;" />
   </div>
 </div>
